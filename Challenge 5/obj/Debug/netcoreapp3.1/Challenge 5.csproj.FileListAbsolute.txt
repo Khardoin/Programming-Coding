@@ -1,0 +1,13 @@
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\bin\Debug\netcoreapp3.1\Challenge 5.exe
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\bin\Debug\netcoreapp3.1\Challenge 5.deps.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\bin\Debug\netcoreapp3.1\Challenge 5.runtimeconfig.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\bin\Debug\netcoreapp3.1\Challenge 5.runtimeconfig.dev.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\bin\Debug\netcoreapp3.1\Challenge 5.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\bin\Debug\netcoreapp3.1\Challenge 5.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\obj\Debug\netcoreapp3.1\Challenge 5.csprojAssemblyReference.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\obj\Debug\netcoreapp3.1\Challenge 5.AssemblyInfoInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\obj\Debug\netcoreapp3.1\Challenge 5.AssemblyInfo.cs
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\obj\Debug\netcoreapp3.1\Challenge 5.csproj.CoreCompileInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\obj\Debug\netcoreapp3.1\Challenge 5.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\obj\Debug\netcoreapp3.1\Challenge 5.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 5\obj\Debug\netcoreapp3.1\Challenge 5.genruntimeconfig.cache
