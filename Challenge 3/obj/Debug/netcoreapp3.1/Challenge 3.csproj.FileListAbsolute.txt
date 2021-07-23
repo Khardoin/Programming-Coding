@@ -1,0 +1,26 @@
+C:\Users\khard\Desktop\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.exe
+C:\Users\khard\Desktop\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.deps.json
+C:\Users\khard\Desktop\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.runtimeconfig.json
+C:\Users\khard\Desktop\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.runtimeconfig.dev.json
+C:\Users\khard\Desktop\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.dll
+C:\Users\khard\Desktop\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.pdb
+C:\Users\khard\Desktop\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.csprojAssemblyReference.cache
+C:\Users\khard\Desktop\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.AssemblyInfoInputs.cache
+C:\Users\khard\Desktop\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.AssemblyInfo.cs
+C:\Users\khard\Desktop\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.csproj.CoreCompileInputs.cache
+C:\Users\khard\Desktop\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.dll
+C:\Users\khard\Desktop\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.pdb
+C:\Users\khard\Desktop\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.genruntimeconfig.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.exe
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.deps.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.runtimeconfig.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.runtimeconfig.dev.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\bin\Debug\netcoreapp3.1\Challenge 3.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.csprojAssemblyReference.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.AssemblyInfoInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.AssemblyInfo.cs
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.csproj.CoreCompileInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 3\obj\Debug\netcoreapp3.1\Challenge 3.genruntimeconfig.cache
