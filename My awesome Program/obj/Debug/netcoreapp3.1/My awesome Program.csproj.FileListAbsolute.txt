@@ -1,0 +1,26 @@
+C:\Users\khard\Desktop\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.exe
+C:\Users\khard\Desktop\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.deps.json
+C:\Users\khard\Desktop\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.runtimeconfig.json
+C:\Users\khard\Desktop\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.runtimeconfig.dev.json
+C:\Users\khard\Desktop\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.dll
+C:\Users\khard\Desktop\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.pdb
+C:\Users\khard\Desktop\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.csprojAssemblyReference.cache
+C:\Users\khard\Desktop\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.AssemblyInfoInputs.cache
+C:\Users\khard\Desktop\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.AssemblyInfo.cs
+C:\Users\khard\Desktop\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\khard\Desktop\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.dll
+C:\Users\khard\Desktop\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.pdb
+C:\Users\khard\Desktop\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.genruntimeconfig.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.exe
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.deps.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.runtimeconfig.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.runtimeconfig.dev.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\bin\Debug\netcoreapp3.1\My awesome Program.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.csprojAssemblyReference.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.AssemblyInfoInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.AssemblyInfo.cs
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.csproj.CoreCompileInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\My awesome Program\obj\Debug\netcoreapp3.1\My awesome Program.genruntimeconfig.cache
