@@ -1,0 +1,13 @@
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\obj\Debug\netcoreapp3.1\Challenge 4.csprojAssemblyReference.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\obj\Debug\netcoreapp3.1\Challenge 4.AssemblyInfoInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\obj\Debug\netcoreapp3.1\Challenge 4.AssemblyInfo.cs
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\obj\Debug\netcoreapp3.1\Challenge 4.csproj.CoreCompileInputs.cache
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\bin\Debug\netcoreapp3.1\Challenge 4.exe
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\bin\Debug\netcoreapp3.1\Challenge 4.deps.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\bin\Debug\netcoreapp3.1\Challenge 4.runtimeconfig.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\bin\Debug\netcoreapp3.1\Challenge 4.runtimeconfig.dev.json
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\bin\Debug\netcoreapp3.1\Challenge 4.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\bin\Debug\netcoreapp3.1\Challenge 4.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\obj\Debug\netcoreapp3.1\Challenge 4.dll
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\obj\Debug\netcoreapp3.1\Challenge 4.pdb
+C:\Users\khard\Desktop\Programmig & coding\Brakeys\Challenge 4\obj\Debug\netcoreapp3.1\Challenge 4.genruntimeconfig.cache
