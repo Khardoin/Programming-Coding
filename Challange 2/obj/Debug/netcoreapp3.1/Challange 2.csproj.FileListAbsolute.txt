@@ -1,0 +1,13 @@
+C:\Users\khard\Desktop\Challange 2\bin\Debug\netcoreapp3.1\Challange 2.exe
+C:\Users\khard\Desktop\Challange 2\bin\Debug\netcoreapp3.1\Challange 2.deps.json
+C:\Users\khard\Desktop\Challange 2\bin\Debug\netcoreapp3.1\Challange 2.runtimeconfig.json
+C:\Users\khard\Desktop\Challange 2\bin\Debug\netcoreapp3.1\Challange 2.runtimeconfig.dev.json
+C:\Users\khard\Desktop\Challange 2\bin\Debug\netcoreapp3.1\Challange 2.dll
+C:\Users\khard\Desktop\Challange 2\bin\Debug\netcoreapp3.1\Challange 2.pdb
+C:\Users\khard\Desktop\Challange 2\obj\Debug\netcoreapp3.1\Challange 2.csprojAssemblyReference.cache
+C:\Users\khard\Desktop\Challange 2\obj\Debug\netcoreapp3.1\Challange 2.AssemblyInfoInputs.cache
+C:\Users\khard\Desktop\Challange 2\obj\Debug\netcoreapp3.1\Challange 2.AssemblyInfo.cs
+C:\Users\khard\Desktop\Challange 2\obj\Debug\netcoreapp3.1\Challange 2.csproj.CoreCompileInputs.cache
+C:\Users\khard\Desktop\Challange 2\obj\Debug\netcoreapp3.1\Challange 2.dll
+C:\Users\khard\Desktop\Challange 2\obj\Debug\netcoreapp3.1\Challange 2.pdb
+C:\Users\khard\Desktop\Challange 2\obj\Debug\netcoreapp3.1\Challange 2.genruntimeconfig.cache
