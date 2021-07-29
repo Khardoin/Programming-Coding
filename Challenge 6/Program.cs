@@ -9,6 +9,21 @@ namespace Challenge_6
             //PrintNumber();
             //MeetAlien();
             //Square(4) //in this, the 4 becomes the int number, which is times by itself for the int result
+            //int result = multiply(3, 8);
+            //Console.WriteLine("The result is: " + result);
+
+            //if (result % 2 == 0)
+            //{
+                //Console.WriteLine(result + " is an even number!");
+            //}else
+            //{
+                //Console.WriteLine(result + " is an uneven number!");
+            //}
+
+            string wordCount = Console.ReadLine();
+            int count = wordCount.Split(" ").Length;
+            Console.WriteLine("There are " + count + " words");
+            
 
             //kepps console open until any key is pressed
             Console.ReadKey();
@@ -60,6 +75,12 @@ namespace Challenge_6
         // static int Square(int number)  in this the int number is the parameter
         //{
             //int result = number * number;  and in this the variable uses int number to form the int result
+            //return result;
+        //}
+
+        //static int multiply(int num01, int num02)
+        //{
+            //int result = num01 * num02;
             //return result;
         //}
     }
