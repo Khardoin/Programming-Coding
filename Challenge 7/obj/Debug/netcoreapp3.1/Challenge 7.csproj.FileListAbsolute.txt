@@ -1,0 +1,13 @@
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\bin\Debug\netcoreapp3.1\Challenge 7.exe
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\bin\Debug\netcoreapp3.1\Challenge 7.deps.json
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\bin\Debug\netcoreapp3.1\Challenge 7.runtimeconfig.json
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\bin\Debug\netcoreapp3.1\Challenge 7.runtimeconfig.dev.json
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\bin\Debug\netcoreapp3.1\Challenge 7.dll
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\bin\Debug\netcoreapp3.1\Challenge 7.pdb
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\obj\Debug\netcoreapp3.1\Challenge 7.csprojAssemblyReference.cache
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\obj\Debug\netcoreapp3.1\Challenge 7.AssemblyInfoInputs.cache
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\obj\Debug\netcoreapp3.1\Challenge 7.AssemblyInfo.cs
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\obj\Debug\netcoreapp3.1\Challenge 7.csproj.CoreCompileInputs.cache
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\obj\Debug\netcoreapp3.1\Challenge 7.dll
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\obj\Debug\netcoreapp3.1\Challenge 7.pdb
+C:\Users\khard\Documents\GitHub\Programming-Coding\Challenge 7\obj\Debug\netcoreapp3.1\Challenge 7.genruntimeconfig.cache
